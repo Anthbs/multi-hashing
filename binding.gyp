@@ -58,7 +58,7 @@
 		"sha3"
             ],
             "cflags_cc": [
-		"-std=c11"		
+                "-std=c++0x"
 	    ],
         }
     ]
